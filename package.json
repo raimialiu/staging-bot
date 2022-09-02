@@ -6,7 +6,7 @@
     "license": "MIT",
     "main": "index.js",
     "scripts": {
-        "preinstall": "npx npm-force-resolutions",
+      
         "start": "node ./index.js",
         "watch": "nodemon ./index.js",
         "lint": "./node_modules/.bin/eslint .",
